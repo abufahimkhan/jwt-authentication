@@ -7,3 +7,5 @@ Step 4: npm install dotenv
 Step 5: npm  install --save-dev nodemon
 Step 6: go to the package.json file and type
     "devStart":"ndemon server.js",
+Generate tokens via node: 
+> require('crypto').randomBytes(64).toString('hex')
