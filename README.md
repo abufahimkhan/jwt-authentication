@@ -1,6 +1,4 @@
 # jwt-authentication
-
-JWT Authentication:
 # Steps for setting up the environment:
 Step 1: npm init -y
 Step 2: npm install express
